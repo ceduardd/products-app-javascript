@@ -1,2 +1,2 @@
-# JavaScript Product App
+# JavaScript Products App
 ![](docs/screenshot.png)
